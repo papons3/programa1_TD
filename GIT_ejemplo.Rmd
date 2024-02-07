@@ -15,7 +15,12 @@ r<- 2
 A<- pi*r^2
 print(A)
 ```
-
+## Calculo de longitud de una circunferencia
+```{r}
+r<- 2
+L<- 2*pi*r
+print(L)
+```
 ```{r cars}
 summary(cars)
 ```
